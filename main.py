@@ -15,7 +15,7 @@ SELF_DEAF = False
 SELF_VIDEO = False
 
 
-usertoken = "ODg1MTI2NDg1NjYzNDQ5MTM5.Ga3Fxh.tr6e2v8EGzxdQG0cAQqLmJ7T7Lawg3x5J4xnZ0"
+usertoken = ""
 
 
 headers = {"Authorization": usertoken, "Content-Type": "application/json"}
